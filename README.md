@@ -9,4 +9,4 @@
      * Implement logic using instance method ( https://vimeo.com/685950155 )
 * Write a method "add" which can accept two or three numbers and perform sum of given numbers. ( https://vimeo.com/685952615)
 * Write a method "add" which can accepts any number of inputs and performs sum of given numbers ( https://vimeo.com/685956961)
-* Write a constructor
+* Write a constructor ( https://vimeo.com/685966627 )
