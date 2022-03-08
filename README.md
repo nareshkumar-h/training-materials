@@ -12,6 +12,9 @@
 * Write a constructor ( https://vimeo.com/685966627 )
 * Using constructor initialize fields ( https://vimeo.com/685969738)
 * Write constructor overloading ( https://vimeo.com/685972590) 
+* String Methods ( https://vimeo.com/685977506 )
+* String immutable ( https://vimeo.com/685981460)
+* String concatenation (https://vimeo.com/685983318)
 
 ##### SQL
 
