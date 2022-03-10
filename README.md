@@ -32,5 +32,6 @@
 * Streams - filter, map ( https://codespace.app/s/testmovielist.java-7LDdwOXd1Y )
 ##### SQL
 *  create products - ( https://codespace.app/s/create_products.sql-VolejxybjN )
+*  Aggregate funtions ( https://codespace.app/s/products.sql-WpmbkyJezJ )
 ##### Project Demo
 * EventApp - Registration + List Users Feature ( https://vimeo.com/686654580 )
