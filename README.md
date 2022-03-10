@@ -28,6 +28,8 @@
 ##### Sorting
 * Comparable + Comparator interface ( https://codespace.app/s/testmovielist.java-gl9avNnaG1 )
 
+##### Streams
+* Streams - filter, map ( https://codespace.app/s/testmovielist.java-7LDdwOXd1Y )
 ##### SQL
 
 ##### Project Demo
