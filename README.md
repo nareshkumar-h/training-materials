@@ -47,8 +47,8 @@
 
 ##### SQL
 *  Create products - ( https://codespace.app/s/create_products.sql-VolejxybjN )
-*  Aggregate funtions ( https://codespace.app/s/products.sql-WpmbkyJezJ )
-*  Sorting -aseending,desending ( https://codespace.app/s/menus.sql-OpnelzjbKB )
+*  Aggregate functions ( https://codespace.app/s/products.sql-WpmbkyJezJ )
+*  Sorting -ascending,desending ( https://codespace.app/s/menus.sql-OpnelzjbKB )
 
 ##### Project Demo
 * EventApp - Registration + List Users Feature ( https://vimeo.com/686654580 )
