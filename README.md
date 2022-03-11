@@ -25,9 +25,17 @@
 * Write File ( https://codespace.app/s/filewritedemo.java-l4zbqGyepr )
 * Read File + Exception Handling ( https://codespace.app/s/filereaddemo.java-yMYerJLeOB )
 
+
+##### Exception Handling
+* User Defined Exception (  https://codespace.app/s/dbexception.java-k8mepGQdMy )
+* ConnectionUtil -> multiple catch - ( https://codespace.app/s/connectionutil.java-l4zbqJ7dpr )
+* ConnectionUtil -> multicatch - ( https://codespace.app/s/connectionutil.java-yMYerK2aOB )
+* Exception Hierarchy 
+
 ##### Sorting
 * Comparable + Comparator interface ( https://codespace.app/s/testmovielist.java-gl9avNnaG1 )
 * FunctionalInterface - Comparator inbuild class ( https://codespace.app/s/comparator.java-WJxboEYegw)
+
 ##### Streams
 * Streams - filter, map ( https://codespace.app/s/testmovielist.java-7LDdwOXd1Y )
 
@@ -37,9 +45,10 @@
 
 
 ##### SQL
-*  create products - ( https://codespace.app/s/create_products.sql-VolejxybjN )
+*  Create products - ( https://codespace.app/s/create_products.sql-VolejxybjN )
 *  Aggregate funtions ( https://codespace.app/s/products.sql-WpmbkyJezJ )
 *  Sorting -aseending,desending ( https://codespace.app/s/menus.sql-OpnelzjbKB )
+
 ##### Project Demo
 * EventApp - Registration + List Users Feature ( https://vimeo.com/686654580 )
 
