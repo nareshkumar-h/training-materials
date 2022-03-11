@@ -42,6 +42,7 @@
 
 ##### Threads
 * Thread class  ( https://codespace.app/s/threadtestdemo.java-wMvbmBRdYA )
+* Runnable interface ( https://codespace.app/s/threadrunnabletestdemo.java-gl9avO8bG1 )
 
 
 ##### SQL
