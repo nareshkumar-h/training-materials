@@ -27,9 +27,10 @@
 
 ##### Sorting
 * Comparable + Comparator interface ( https://codespace.app/s/testmovielist.java-gl9avNnaG1 )
-
+* FunctionalInterface - Comparator inbuild class ( https://codespace.app/s/comparator.java-WJxboEYegw)
 ##### Streams
 * Streams - filter, map ( https://codespace.app/s/testmovielist.java-7LDdwOXd1Y )
+
 
 ##### Threads
 * Thread class  ( https://codespace.app/s/threadtestdemo.java-wMvbmBRdYA )
