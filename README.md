@@ -12,6 +12,11 @@
 * Write a constructor ( https://vimeo.com/685966627 )
 * Using constructor initialize fields ( https://vimeo.com/685969738)
 * Write constructor overloading ( https://vimeo.com/685972590) 
+
+##### Input
+* Scanner ( https://codespace.app/s/scannerdemo.java-JX7axQlbyv )
+
+##### String
 * String Methods ( https://vimeo.com/685977506 )
 * String immutable ( https://vimeo.com/685981460)
 * String concatenation (https://vimeo.com/685983318)
@@ -45,9 +50,12 @@
 * Thread class  ( https://codespace.app/s/threadtestdemo.java-wMvbmBRdYA )
 * Runnable interface ( https://codespace.app/s/threadrunnabletestdemo.java-gl9avO8bG1 )
 
+##### JDBC 
+* 
+
 
 ##### SQL
-*  Create products - ( https://codespace.app/s/create_products.sql-VolejxybjN )
+*  DDL/DML - Create products - ( https://codespace.app/s/create_products.sql-VolejxybjN )
 *  Aggregate functions ( https://codespace.app/s/products.sql-WpmbkyJezJ )
 *  Sorting -ascending,desending ( https://codespace.app/s/menus.sql-OpnelzjbKB )
 
