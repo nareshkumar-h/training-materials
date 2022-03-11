@@ -35,6 +35,7 @@
 * Reverse a String using StringBuilder (https://codespace.app/s/stringbuilderdemo.java-7LDdwPre1Y )
 
 ##### Exception Handling
+* Division - ArithmeticException (RuntimeException)  ( https://vimeo.com/687050376 - https://codespace.app/s/divisionexceptiondemo.java-kzPdyR6eQr)
 * User Defined Exception (  https://codespace.app/s/dbexception.java-k8mepGQdMy )
 * ConnectionUtil -> multiple catch - ( https://codespace.app/s/connectionutil.java-l4zbqJ7dpr )
 * ConnectionUtil -> multicatch - ( https://codespace.app/s/connectionutil.java-yMYerK2aOB )
