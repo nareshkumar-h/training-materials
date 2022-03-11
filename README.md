@@ -31,6 +31,8 @@
 * Write File ( https://codespace.app/s/filewritedemo.java-l4zbqGyepr )
 * Read File + Exception Handling ( https://codespace.app/s/filereaddemo.java-yMYerJLeOB )
 
+##### Logical Programming
+* Reverse a String using StringBuilder (https://codespace.app/s/stringbuilderdemo.java-7LDdwPre1Y )
 
 ##### Exception Handling
 * User Defined Exception (  https://codespace.app/s/dbexception.java-k8mepGQdMy )
