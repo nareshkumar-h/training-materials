@@ -66,11 +66,11 @@ public class LoggerDemo {
 
 * Below are the Log4j log levels, in order of least to most restrictive:
 
-ALL => all levels
-DEBUG => designates fine-grained informational events that are most useful to debug an application
-INFO => informational messages that highlight the progress of the application at the coarse grained level
-WARN => designates potentially harmful situations
-ERROR => designates error events that might still allow the application to continue running
-FATAL => severe error events that presumably lead the application to abort
-OFF => highest possible level, intended to turn off logging
+* ALL => all levels
+* DEBUG => designates fine-grained informational events that are most useful to debug an application
+* INFO => informational messages that highlight the progress of the application at the coarse grained level
+* WARN => designates potentially harmful situations
+* ERROR => designates error events that might still allow the application to continue running
+* FATAL => severe error events that presumably lead the application to abort
+* OFF => highest possible level, intended to turn off logging
 
