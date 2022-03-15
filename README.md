@@ -57,16 +57,14 @@
 * Thread class  ( https://codespace.app/s/threadtestdemo.java-wMvbmBRdYA )
 * Runnable interface ( https://codespace.app/s/threadrunnabletestdemo.java-gl9avO8bG1 )
 
-##### JDBC 
-* 
-
 
 ##### SQL
 *  DDL/DML - Create products - ( https://codespace.app/s/create_products.sql-VolejxybjN )
 *  Aggregate functions ( https://codespace.app/s/products.sql-WpmbkyJezJ )
+*  Aggregate functions - Employees Salary Data ( https://codespace.app/s/aggregate_functions.sql-Oy5eV1zdEP)
 *  Sorting -ascending,desending ( https://codespace.app/s/menus.sql-OpnelzjbKB )
 
-##### Project Demo
+##### Project Demo / JDBC
 * EventApp - Registration + List Users Feature ( https://vimeo.com/686654580 )
 
 
