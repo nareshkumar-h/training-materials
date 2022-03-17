@@ -40,7 +40,7 @@ DELIMITER $$
 CREATE    
     PROCEDURE `pr_activate_account`(IN i_email VARCHAR(100), OUT i_result  VARCHAR(100) )    
     BEGIN
-        DECLARE v_rows INT;
+        
         IF ( i_email IS NULL ) THEN
 		SET i_result = 'Email Id is Empty';  	
 	ELSE	        
