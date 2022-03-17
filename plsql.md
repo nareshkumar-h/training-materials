@@ -65,4 +65,4 @@ SELECT @result;
 CALL pr_activate_account(NULL,@result);
 SELECT @result;
 ```
-
+* Output: Email Id is Empty
