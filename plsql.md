@@ -13,7 +13,7 @@
 ```sql
 DELIMITER $$
 
-CREATE  FUNCTION `revature_training_db`.`calculate`(num1 INT, num2 INT )
+CREATE  FUNCTION `calculate`(num1 INT, num2 INT )
     RETURNS INT
     BEGIN
         DECLARE v_result INT;
@@ -29,5 +29,40 @@ DELIMITER ;
 SELECT calculate(2,3);
 
 SELECT calculate(3,3);
+```
+
+##### Procedure 
+* IN/OUT/INOUT Parameters
+
+```sql
+DELIMITER $$
+
+CREATE    
+    PROCEDURE `pr_activate_account`(IN i_email VARCHAR(100), OUT i_result  VARCHAR(100) )    
+    BEGIN
+        DECLARE v_rows INT;
+        IF ( i_email IS NULL ) THEN
+		SET i_result = 'Email Id is Empty';  	
+	ELSE	        
+	   UPDATE naresh_eventapp_users SET ACTIVE=1 WHERE email = i_email;	  
+		SET i_result = 'SUCCESS';
+        END IF;
+	
+    END$$
+
+DELIMITER ;
+```
+
+* Test Case 01: Valid Email Id
+```sql
+CALL pr_activate_account('nareshkumarh@live.com',@result);
+SELECT @result;
+```
+* Output: SUCCESS
+
+* Test Case 02: Input Email as Null
+```sql
+CALL pr_activate_account(NULL,@result);
+SELECT @result;
 ```
 
