@@ -45,6 +45,8 @@
 * Isolation
 * Durability
 
+![image](https://user-images.githubusercontent.com/2763774/158994244-00f19386-8ff3-4dcd-8433-38f121f50d75.png)
+
 
 #### Scenario #2: Fund Transfer  Rs.500 from Person 1 account No (101) to  Person 2 account No (102) .
 
