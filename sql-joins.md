@@ -1,4 +1,10 @@
 ## Joins
+* To fetch data from more than 1 table.
+
+##### Types of Join
+* Inner Join
+* Outer Join - Left / Right / Outer
+* Self Join
 
 
 #####  INNER JOIN
