@@ -1,4 +1,4 @@
-#### Transactions 
+## Transactions 
 
 #### Project: In Banking App , I have two user accounts.
 
@@ -31,14 +31,14 @@
 |  1 | 101  | DEBIT  | 3000  | SUCCESS  |
 
 
-##### Definition of Transaction
+## Definition of Transaction
 
 * A transaction is a single logical unit of work which accesses and possibly modifies the contents of a database. 
 * Transactions access data using read and write operations. 
 * In order to maintain consistency in a database, before and after the transaction, certain properties are followed. 
 * These are called **ACID properties**. 
 
-#### ACID Properties
+## ACID Properties
 
 * Atomicity
 * Consistency
