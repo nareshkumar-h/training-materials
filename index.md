@@ -35,6 +35,11 @@ SELECT * FROM naresh_eventapp_users WHERE email='siva@gmail.com';
 ALTER TABLE naresh_eventapp_users DROP INDEX users_email_idx;
 ```
 
+##### How data is stored internally for an indexed column ?
+* Data in an indexed column is stored in some order, in a separate location called the **index**. 
+* Numeric data types are stored in **numeric order**, text data types are stored in **alphabetical order**, and date data types are in **date order**. 
+* This way, **data search is easier and faster**.
+
 ##### Additional Example
 * Search by state - https://www.section.io/engineering-education/mysql-query-optimization-using-indexes-with-examples/
 
