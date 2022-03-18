@@ -21,7 +21,7 @@
 
 | ACCOUNT_NO  | USER_ID  | ACCOUNT_TYPE  | BALANCE  | 
 |---|---|---|---|
-|  101 | Naresh  | SAVINGS  | 7000  | 
+|  101 | Naresh  | SAVINGS  | <del>10000</del> 7000  | 
 | 102  | Siva  | SAVINGS  | 2000  |  
 
 * **Table Name:** transactions
@@ -52,8 +52,8 @@
 
 | ACCOUNT_NO  | USER_ID  | ACCOUNT_TYPE  | BALANCE  | 
 |---|---|---|---|
-|  101 | Naresh  | SAVINGS  | 6500  | 
-| 102  | Siva  | SAVINGS  | 2500  |  
+|  101 | Naresh  | SAVINGS  | <del>7000</del> 6500  | 
+| 102  | Siva  | SAVINGS  | <del>2000</del> 2500  |  
 
 * **Table Name:** transactions
 
