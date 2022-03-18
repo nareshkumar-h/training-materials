@@ -1,4 +1,3 @@
-## Transactions 
 
 #### Project: In Banking App , I have two user accounts.
 
@@ -63,3 +62,15 @@
 |---|---|---|---|---|
 |  2 | 101  | DEBIT  | 500  | SUCCESS  |
 |  3 | 102  | CREDIT  | 500  | SUCCESS  |
+
+* Transaction Control Statements : COMMIT, ROLLBACK
+* From Account 1, amount is deducted.
+* From Account 2, amount is credited.
+* Both the transaction is successful, so we will give **"COMMIT"** command.
+
+#### Scenario 3: Fund Transfer from account 1 to account 2 ( Account No 2 is invalid account no )
+
+* Transaction Control Statements : COMMIT, ROLLBACK
+* From Account 1, amount is deducted.
+* Then, we found Account 2 is invalid. Then we have to revert the entire transaction using **ROLLBACK** command.
+
