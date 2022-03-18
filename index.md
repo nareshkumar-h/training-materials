@@ -1,4 +1,4 @@
-## Index ( Practice Time: ~20 - 30 minutes)
+## Index ( Practice Time: ~15 - 20 minutes)
 
 * **Indexes** are used to find rows with specific column values quickly. 
 * **Without an index**, MySQL must begin with the **first row** and then read through the **entire table** to find the relevant rows. 
