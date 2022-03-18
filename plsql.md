@@ -31,7 +31,33 @@ SELECT calculate(2,3);
 SELECT calculate(3,3);
 ```
 
-##### Procedure 
+##### Procedure - Example 1
+
+```sql
+DELIMITER $$
+
+CREATE
+    PROCEDURE `revature_training_db`.`pr_create_account`(IN i_name VARCHAR(100), IN i_email VARCHAR(100), IN i_password VARCHAR(100), IN i_college_name VARCHAR(100), OUT i_message VARCHAR(100))
+    BEGIN
+
+	INSERT INTO naresh_eventapp_users
+	(NAME,email,PASSWORD,college_name) 
+	VALUES ( i_name,i_email, i_password,i_college_name);
+	SET i_message := 'SUCCESS';
+    END$$
+
+DELIMITER ;
+```
+
+* Test the procedure
+```sql
+CALL pr_create_account('siva','siva@gmail.com','pass1234','LVEC',@message);
+SELECT @message;
+```
+
+* Output: SUCCESS
+
+##### Procedure - Example 2
 * IN/OUT/INOUT Parameters
 
 ```sql
@@ -66,3 +92,4 @@ CALL pr_activate_account(NULL,@result);
 SELECT @result;
 ```
 * Output: Email Id is Empty
+
