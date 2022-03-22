@@ -27,7 +27,6 @@
 * Validation - int, String, LocalDate ( https://codespace.app/s/teststudent.java-WjnegrrdwZ )
 
 
-
 ##### Files
 * Read file ( https://codespace.app/s/filereaddemo.java-k8mepEyaMy )
 * Write File ( https://codespace.app/s/filewritedemo.java-l4zbqGyepr )
@@ -43,12 +42,7 @@
 * ConnectionUtil -> multicatch - ( https://codespace.app/s/connectionutil.java-yMYerK2aOB )
 * Exception Hierarchy -> File Read - ( https://codespace.app/s/filereaddemo.java-yMYerJLeOB )
 
-##### Sorting
-* Comparable + Comparator interface ( https://codespace.app/s/testmovielist.java-gl9avNnaG1 )
-* FunctionalInterface - Comparator inbuild class ( https://codespace.app/s/comparator.java-WJxboEYegw)
 
-##### Streams
-* Streams - filter, map ( https://codespace.app/s/testmovielist.java-7LDdwOXd1Y )
 
 
 ##### Threads
