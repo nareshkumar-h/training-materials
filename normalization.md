@@ -73,3 +73,38 @@
 |10002 | 1 | 102  |
 |10003 | 2 | 102  |
 
+
+##### Scenario 3: Add Event Category 
+
+* Table Name: **events**
+
+
+| id | event_name  |  event_timings | category | 
+|---|---|---|---|
+|101 | Coding Event  | 11:00 | Coding | 
+|102 | Singing Event  | 12:00 | Entertainment |
+
+
+#### Apply 3rd Normal Form
+
+* A **transitive functional dependency** is when changing a non-key column, might cause any of the other non-key columns to change
+
+* Table Name: **event_categories**
+
+
+| id | category  | 
+|---|---|
+|1 | Coding  |
+|2 | Entertainment |
+
+
+* Table Name: **events**
+
+
+| id | event_name  |  event_timings | category_id | 
+|---|---|---|---|
+|101 | Coding Event  | 11:00 | 1 | 
+|102 | Singing Event  | 12:00 | 2 |
+
+
+
