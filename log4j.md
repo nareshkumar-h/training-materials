@@ -70,7 +70,12 @@ public class LoggerDemo {
 </Configuration>
 ```
 
-##### Task 4: Understand Levels
+##### Task 4: Change the log append option
+* Either you can append the log files
+* append="false" to append="true"
+
+
+##### Task 5: Understand Levels
 
 * Below are the Log4j log levels, in order of least to most restrictive:
 
