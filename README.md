@@ -27,9 +27,7 @@
 * Validation - int, String, LocalDate ( https://codespace.app/s/teststudent.java-WjnegrrdwZ )
 
 
-##### Collections
-* Iterator ( https://codespace.app/s/iteratordemo.java-mxkaz0qdJ0 )
-* HashMap  (https://codespace.app/s/hashmapdemo.java-4w9aAy9avM )
+
 ##### Files
 * Read file ( https://codespace.app/s/filereaddemo.java-k8mepEyaMy )
 * Write File ( https://codespace.app/s/filewritedemo.java-l4zbqGyepr )
