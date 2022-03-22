@@ -93,3 +93,8 @@ SELECT @result;
 ```
 * Output: Email Id is Empty
 
+
+
+##### CallableStatement => to call procedure
+
+* Callable Statement to call procedure  ( https://codespace.app/s/testprocedure.java-k8mepOQdMy )
