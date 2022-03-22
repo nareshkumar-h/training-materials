@@ -13,7 +13,8 @@
 * TreeSet  ( https://codespace.app/new?template=b7621a24-da69-4e30-931f-359e68c9f254 )
 
 ##### Map
-* HashMap  (https://codespace.app/s/hashmapdemo.java-4w9aAy9avM )
+* HashMap + Iterate using KeySet  (https://codespace.app/s/hashmapdemo.java-OpnelAjaKB )
+* HashMap + Iterate using EntrySet ( https://codespace.app/s/hashmapusingentrysetdemo.java-wMvbmLRaYA )
 
 ##### Sorting
 * Comparable + Comparator interface ( https://codespace.app/s/testmovielist.java-gl9avNnaG1 )
