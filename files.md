@@ -12,11 +12,13 @@
 
 * **What is Serialization ?**
   * Serialization is a process of writing the state of an object into a byte stream.It is mainly used to travel object’s state on the network.
+  * Serializable is a marker interface. Interface which does not have methods.
 * **What is Deserialization ?**
   * Deserialization is the process of reconstructing the object from the serialized state.It is the reverse operation of serialization.
 * **What is transient keyword ?** 
   * If you define any data member as transient,it will not be serialized.
-
+* **What is Marker interface ?**
+  * An interface that have no data member and method is known as a marker interface. For example Serializable.
 * **Lab Exercise**
    * Create a Model Class ( https://codespace.app/s/employee.java-QJ0dNP2aLO  )
    * Serialization ( https://codespace.app/s/serializationdemo.java-z3YaOQRdxq )
