@@ -42,8 +42,8 @@
 * ConnectionUtil -> multicatch - ( https://codespace.app/s/connectionutil.java-yMYerK2aOB )
 * Exception Hierarchy -> File Read - ( https://codespace.app/s/filereaddemo.java-yMYerJLeOB )
 
-
-
+###### Collections
+* collections.md - Added examples in separate file
 
 ##### Threads
 * Thread class  ( https://codespace.app/s/threadtestdemo.java-wMvbmBRdYA )
