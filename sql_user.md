@@ -26,11 +26,15 @@ GRANT ALL PRIVILEGES ON naresh_db.* TO 'naresh'@'%' ;
 ```
 
 ##### Provide specific permission to user
+
+* Specific Privilege
 ```sql
 GRANT CREATE,SELECT ON naresh_db.* TO 'naresh'@'%' WITH GRANT OPTION;
 ```
 
 #### Remove Permission from user
+
+* Remove all privileges
 
 ```sql
 REVOKE ALL PRIVILEGES, GRANT OPTION FROM 'naresh';
